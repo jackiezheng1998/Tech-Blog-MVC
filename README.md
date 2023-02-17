@@ -13,12 +13,9 @@ CMS-style blog site similar to a Wordpress site, where developers can publish th
 
 ## Demo Gif
 
-![gif of console demo](/assets/desktop_demo.png)
-
-
 ## Homework Assignment Given Design
 
-![Given Design](./assets/given.gif)
+![14-mvc-homework-demo-01](https://user-images.githubusercontent.com/118042037/219709890-97a18577-7941-444a-a357-da18d4dbfdb6.gif)
 
 ## Installation-Instructions
 
@@ -29,11 +26,10 @@ This project requires Node JS and the npm package inquires to function properly 
 
 node /directory/server.js  
 ```node server.js```
+# Mock Up
+![Screenshot (18)](https://user-images.githubusercontent.com/118042037/219710538-c8b8f337-44a9-4517-b4f4-8480890999b6.png)
 
-## License
+![Screenshot (19)](https://user-images.githubusercontent.com/118042037/219710550-3eadbd14-d7b8-4b58-8421-ca3d014a037d.png)
 
-MIT License
+![Screenshot (20)](https://user-images.githubusercontent.com/118042037/219710553-92ead540-1839-4ca7-a911-3e832f06b598.png)
 
-## Contribution-Guidelines
-
-This is a private repository for a homework assignment no contributions will be accepted here
