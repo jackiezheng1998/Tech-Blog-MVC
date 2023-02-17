@@ -11,9 +11,7 @@ CMS-style blog site similar to a Wordpress site, where developers can publish th
 [Contribution Guidelines](#contribution-guidelines)  
 [Questions](#questions)  
 
-## Demo Gif
-
-## Homework Assignment Given Design
+## Homework Assignment Given Design / Demo Gif
 
 ![14-mvc-homework-demo-01](https://user-images.githubusercontent.com/118042037/219709890-97a18577-7941-444a-a357-da18d4dbfdb6.gif)
 
